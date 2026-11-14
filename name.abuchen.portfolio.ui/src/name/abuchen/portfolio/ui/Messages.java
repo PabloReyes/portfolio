@@ -1552,7 +1552,6 @@ public class Messages extends NLS
     public static String TransactionFilterTaxes;
     public static String TransactionFilterTransfers;
     public static String Url;
-    public static String MsgWarningWayland;
     public static String ValueColorSchemeAsia;
     public static String ValueColorSchemeBlueOrange;
     public static String ValueColorSchemeStandard;
